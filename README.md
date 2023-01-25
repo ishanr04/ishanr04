@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Ranasinghe</h1>
-<h3 align="center">A passionate Data Science Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Trainee Data Science Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanr04&label=Profile%20views&color=0e75b6&style=flat" alt="ishanr04" /> </p>
 
